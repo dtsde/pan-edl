@@ -217,7 +217,6 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
-mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
@@ -521,6 +520,7 @@ repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
+repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
 rsync.gtlib.gatech.edu/

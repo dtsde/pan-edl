@@ -201,6 +201,7 @@ mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.fairway.ne.jp/
 mirror.famaserver.com/
+mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -295,7 +296,6 @@ mirror.nl.altushost.com/
 mirror.nl.as215296.net/
 mirror.nl.leaseweb.net/
 mirror.nodesdirect.com/
-mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ordunet.ge/

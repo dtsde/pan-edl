@@ -1,6 +1,5 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
-archive-ubuntu.scopesky.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
@@ -506,6 +505,7 @@ pubmirrors.dal.corespace.com/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.morgan.kr/
 repo.ugm.ac.id/

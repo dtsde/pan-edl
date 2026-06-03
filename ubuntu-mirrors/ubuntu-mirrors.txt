@@ -116,8 +116,6 @@ la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
-lug.mines.edu/
-mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
@@ -297,7 +295,6 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
@@ -307,7 +304,6 @@ mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
-mirror.rasanegar.com/
 mirror.ratiokontakt.de/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
@@ -587,6 +583,7 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
+ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/

@@ -20,7 +20,6 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
-deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
@@ -451,6 +450,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
+mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
@@ -553,6 +553,7 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
+ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
@@ -585,7 +586,6 @@ ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
-ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/

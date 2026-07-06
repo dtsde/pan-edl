@@ -179,7 +179,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
@@ -279,7 +278,6 @@ mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/

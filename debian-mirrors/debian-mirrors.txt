@@ -242,7 +242,6 @@ mirror.mirohost.net/
 mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
-mirror.netlen.com.tr/
 mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
